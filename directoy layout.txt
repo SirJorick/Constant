@@ -1,0 +1,33 @@
+Engine/
+├── assets
+│   ├── icons
+
+│   └── images
+
+├── config
+
+├── core
+│   ├── __init__.py
+│   ├── gui
+│   │   ├── __init__.py
+│   │   └── interface.py
+│   ├── main.py
+│   ├── processing
+│   │   ├── __init__.py
+│   │   └── tasks.py
+│   └── utils
+│       ├── __init__.py
+│       └── helper.py
+├── data
+
+├── docs
+
+├── logs
+
+├── scripts
+
+└── tests
+
+
+
+        
