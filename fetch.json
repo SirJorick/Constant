@@ -31,18 +31,6 @@
       "description": "Offers IP-based geolocation details using ipstack. Useful for mapping and location-based services.",
       "api_key": "98252e29aa7a6a85d084737dc233da46",
       "url": "http://api.ipstack.com/"
-    },
-    {
-      "name": "HERE Maps API",
-      "description": "Provides robust mapping, traffic data, navigation, and geocoding services. Ideal for traffic monitoring, route planning, and location-based applications.",
-      "api_key": "gNvrbiCvTbVoqiT_P7e7EFnKhP-y4oiWE3cm4cH-wCc",
-      "url": "https://platform.here.com/access/apps/ZPLJ6mM6suCKzcMfSlJU"
-    },
-    {
-      "name": "OpenWeatherMap API",
-      "description": "Delivers comprehensive weather data, including current conditions, forecasts, and typhoon alerts. Perfect for applications tracking severe weather and planning around weather conditions.",
-      "api_key": "29fe16af6b7250ad726f97ac3272c62d",
-      "url": "https://home.openweathermap.org/api_keys"
     }
   ]
 }
