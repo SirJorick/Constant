@@ -1,0 +1,48 @@
+{
+  "name": "API Configurations",
+  "API": [
+    {
+      "name": "IP Geolocation API",
+      "description": "Provides IP-based geolocation details using ipapi. Useful for determining the geographic location of an IP address.",
+      "api_key": "a0880b646c85c227e3f81eb9d7022f10",
+      "url": "https://api.ipapi.com/api/",
+      "dashboard_url": "https://ipapi.com/dashboard"
+    },
+    {
+      "name": "OpenCage Data API",
+      "description": "Geocoding addresses using OpenCage Data. Converts location names into coordinates and vice versa.",
+      "api_key": "9bb391df378541a283fe99b321a33929",
+      "url": "https://api.opencagedata.com/geocode/v1/json"
+    },
+    {
+      "name": "Weather API",
+      "description": "Retrieve current weather data, including forecasts and conditions.",
+      "api_key": "3d64780a9a2b44cbb4162710242812",
+      "url": "http://api.weatherapi.com/v1/current.json"
+    },
+    {
+      "name": "NASA APOD API",
+      "description": "Provides the Astronomy Picture of the Day along with a brief explanation, sourced from NASA.",
+      "api_key": "MmNsVhJ0gabiWoxAJrVPwL6fGQdKa6sAXTea6mmD",
+      "url": "https://api.nasa.gov/planetary/apod"
+    },
+    {
+      "name": "IPStack API",
+      "description": "Offers IP-based geolocation details using ipstack. Useful for mapping and location-based services.",
+      "api_key": "98252e29aa7a6a85d084737dc233da46",
+      "url": "http://api.ipstack.com/"
+    },
+    {
+      "name": "HERE Maps API",
+      "description": "Provides robust mapping, traffic data, navigation, and geocoding services. Ideal for traffic monitoring, route planning, and location-based applications.",
+      "api_key": "gNvrbiCvTbVoqiT_P7e7EFnKhP-y4oiWE3cm4cH-wCc",
+      "url": "https://platform.here.com/access/apps/ZPLJ6mM6suCKzcMfSlJU"
+    },
+    {
+      "name": "OpenWeatherMap API",
+      "description": "Delivers comprehensive weather data, including current conditions, forecasts, and typhoon alerts. Perfect for applications tracking severe weather and planning around weather conditions.",
+      "api_key": "29fe16af6b7250ad726f97ac3272c62d",
+      "url": "https://home.openweathermap.org/api_keys"
+    }
+  ]
+}
